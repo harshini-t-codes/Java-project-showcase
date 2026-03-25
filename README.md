@@ -23,6 +23,7 @@ It includes:
 ### 1. Vehicle Parking & Billing System
 
 A console-based application to manage vehicle parking and calculate billing based on vehicle type.
+Used java programming and loops(if,else) for creating a basic level project.
 
 
 
