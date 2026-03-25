@@ -68,4 +68,4 @@ This repository is created to:
 
 ## 🙋‍♀️ Author
 
-Harshini Thulasimani
+Harshini T
